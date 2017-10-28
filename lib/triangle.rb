@@ -31,5 +31,5 @@ class TriangleError < StandardError
   # end
 end
 
-shape = Triangle.new(3, 4, 5)
+shape = Triangle.new(2, 2, 5)
 shape.kind
